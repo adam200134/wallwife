@@ -1,0 +1,26 @@
+@import url("https://puckzxz.github.io/NotAnotherAnimeTheme/build/v3/naat.v3.css");
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/ServerColumns/ServerColumns.css');
+:root {
+
+}
+.avatar-3mTjvZ,
+.subscriptionsRedirectContainer-zD3U79,
+.notice-2OK8bw,
+.accountProfileCard-lbN7n-,
+.noItemsCard-5EOcCl {
+    background-color: var(--searchColor) !important;
+}
+
+.fieldList-in8WkP,
+.background-3d_SjE {
+    background-color: transparent !important;
+}
+
+.side-2ur1Qk .separator-2wx7h6 {display: none !important;}
+#bd-settings-sidebar .ui-tab-bar-header, .side-2ur1Qk .header-2Kx1US {
+    width: 100%;
+}
+
+.container-2o3qEW {
+    background-color: transparent !important;
+}
